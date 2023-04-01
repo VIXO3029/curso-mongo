@@ -1,4 +1,4 @@
-use("sample_training")
+use("Mi_store")
 
-db.zips.find({ state: "NY"}).count()
+db.products.find()
 
