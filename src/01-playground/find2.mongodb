@@ -1,0 +1,2 @@
+use("Mi_store")
+db.products.find()
